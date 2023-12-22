@@ -10,6 +10,8 @@
 
 Corresponding author: *Vlad Niculescu* <vladn@iis.ee.ethz.ch>  
 
+<img style="float: right;" src="imgs/banner.gif" width="100%">
+
 ## About the Project
 Perceiving and mapping the surroundings are essential for autonomous navigation in any robotic platform. The algorithm class that enables accurate mapping while correcting the odometry errors present in most robotics systems is Simultaneous Localization and Mapping (SLAM). Today, fully onboard mapping is only achievable on robotic platforms that can host high-wattage processors, mainly due to the significant computational load and memory demands required for executing SLAM algorithms. For this reason, pocket-size hardware-constrained robots offload the execution of SLAM to external infrastructures. To address the challenge of enabling SLAM algorithms on resource-constrained processors, this paper proposes NanoSLAM, a lightweight and optimized end-to-end SLAM approach specifically designed to operate on centimeter-size robots at a power budget of only 87.9 mW. We demonstrate the mapping capabilities in real-world scenarios and deploy NanoSLAM on a nano-drone weighing 44 g and equipped with a novel commercial RISC-V low-power parallel processor called GAP9. The algorithm, designed to leverage the parallel capabilities of the RISC-V processing cores, enables mapping of a general environment with an accuracy of 4.5 cm and an end-toend execution time of less than 250 ms.
 
