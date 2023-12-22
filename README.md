@@ -22,7 +22,7 @@ Our video briefly explains how our system works and showcases **NanoSLAM** opera
 If you use **NanoSLAM** in an academic or industrial context, please cite the following publications:
 
 Publications: 
-* *NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots* [IEEE IoT Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10343110) -- [IEEE IoT Journal]
+* *NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots* [IEEE IoT Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10343110)
 * *Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones* [arXiv preprint](https://arxiv.org/pdf/2309.03678.pdf)
 
 ```bibtex
