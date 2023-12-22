@@ -1,0 +1,3 @@
+obj-y += i2c_platform.o
+obj-y += tof_matrix.o
+obj-y += /drivers/

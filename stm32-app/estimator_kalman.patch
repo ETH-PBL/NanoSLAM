@@ -1,0 +1,29 @@
+diff --git a/src/modules/src/estimator/estimator_kalman.c b/src/modules/src/estimator/estimator_kalman.c
+index b7cad4d2..340c7aa5 100644
+--- a/src/modules/src/estimator/estimator_kalman.c
++++ b/src/modules/src/estimator/estimator_kalman.c
+@@ -368,6 +368,24 @@ void estimatorKalmanInit(void)
+   kalmanCoreInit(&coreData, &coreParams, nowMs);
+ }
+ 
++// CUstom defined function
++void estimatorKalmanInitToPose(float x, float y, float z, float yaw)
++{
++  axis3fSubSamplerInit(&accSubSampler, GRAVITY_MAGNITUDE);
++  axis3fSubSamplerInit(&gyroSubSampler, DEG_TO_RAD);
++
++  outlierFilterTdoaReset(&outlierFilterTdoaState);
++  outlierFilterLighthouseReset(&sweepOutlierFilterState, 0);
++
++  uint32_t nowMs = T2M(xTaskGetTickCount());
++  kalmanCoreDefaultParams(&coreParams);
++  coreParams.initialX = x;
++  coreParams.initialY = y;
++  coreParams.initialZ = z;
++  coreParams.initialYaw = yaw;
++  kalmanCoreInit(&coreData, &coreParams, nowMs);
++}
++
+ bool estimatorKalmanTest(void)
+ {
+   return isInit;

@@ -1,0 +1,10 @@
+obj-y += main_app.o
+obj-y += scan.o
+obj-y += scan_log.o
+obj-y += corner_detector.o
+obj-y += tof_daq.o
+obj-y += radio_comm.o
+obj-y += spi_comm.o
+obj-y += trajectory.o
+obj-y += exploration.o
+obj-y += /tof-matrix/

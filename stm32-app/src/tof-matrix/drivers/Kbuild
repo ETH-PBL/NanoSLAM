@@ -1,0 +1,2 @@
+obj-y += i2c_expander.o
+obj-y += vl53l5cx_api.o
