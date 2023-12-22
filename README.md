@@ -4,8 +4,6 @@
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 
-[]
-
 # NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots
 
 Authors: *Vlad Niculescu* *Tommaso Polonelli* *Michele Magno* *Luca Benini* 
