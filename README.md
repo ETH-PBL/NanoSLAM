@@ -25,8 +25,6 @@ Publications:
 * *NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots* [IEEE IoT Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10343110) -- [IEEE IoT Journal]
 * *Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones* [arXiv preprint](https://arxiv.org/pdf/2309.03678.pdf)
 
-
-(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10343110)
 ```bibtex
 @article{niculescu2023nanoslam,
   title={NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots},
