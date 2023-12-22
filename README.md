@@ -7,6 +7,7 @@
 # NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots
 
 Authors: *Vlad Niculescu*, *Tommaso Polonelli*, *Michele Magno*, *Luca Benini* 
+
 Corresponding author: *Vlad Niculescu* <vladn@iis.ee.ethz.ch>  
 
 ## About the Project
