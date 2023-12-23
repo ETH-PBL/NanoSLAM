@@ -43,6 +43,7 @@ Publications:
   year={2023}
 }
 ```
+<div style="float: right; margin: 0 10px 0 0;">  <img src="imgs/drone.png" alt="Your Image Description" width="300"/> </div> - Point 1 - Point 2 - Point 3 Your text goes here. It will appear to the left of the image.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
