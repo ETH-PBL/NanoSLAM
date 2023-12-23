@@ -45,16 +45,7 @@ Publications:
 ```
 ## Getting Started
 
-<figure style="float: right; margin: 0 10px 0 0; text-align: center;">
-  <img src="imgs/drone.png" alt="Your Image Description" width="300"/>
-  <figcaption>Your Image Description</figcaption>
-</figure>
-
-- Point 1
-- Point 2
-- Point 3
-
-Your text goes here. It will appear to the left of the image.
+<img style="float: right;" src="imgs/drone.png" width="50%">
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
