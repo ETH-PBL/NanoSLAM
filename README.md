@@ -46,7 +46,7 @@ Publications:
 ## Getting Started
 
 <p align="center">
-  <img src="imgs/drone.png" alt="Your Image Description" width="300"/>
+  <img src="imgs/drone.png" alt="Your Image Description" width="50%"/>
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
