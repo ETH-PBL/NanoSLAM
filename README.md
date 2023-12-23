@@ -45,7 +45,7 @@ Publications:
 ```
 ## Getting Started
 
-<img style="float: right;" src="imgs/drone.png" width="50%">
+<img style="float: center;" src="imgs/drone.png" width="50%">
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
