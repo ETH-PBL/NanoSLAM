@@ -43,13 +43,19 @@ Publications:
   year={2023}
 }
 ```
+## Getting Started
 
+<figure style="float: right; margin: 0 10px 0 0; text-align: center;">
+  <img src="imgs/drone.png" alt="Your Image Description" width="300"/>
+  <figcaption>Your Image Description</figcaption>
+</figure>
 
-| Your Text Goes Here. It will appear to the left of the image. | ![Your Image Description](imgs/drone.png) |
-|--------------------------------------------------------------|-----------------------------------------------|
-| - Point 1                                                     |                                               |
-| - Point 2                                                     |                                               |
-| - Point 3                                                     |                                               |
+- Point 1
+- Point 2
+- Point 3
+
+Your text goes here. It will appear to the left of the image.
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
