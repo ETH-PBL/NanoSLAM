@@ -45,8 +45,9 @@ Publications:
 ```
 ## Getting Started
 
-<img style="float: center;" src="imgs/drone.png" width="50%">
-
+<p align="center">
+  <img src="imgs/drone.png" alt="Your Image Description" width="300"/>
+</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
