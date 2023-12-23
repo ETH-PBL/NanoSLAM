@@ -1,0 +1,96 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Vlad\Desktop\QuadTofDeck\QuadDeck.PcbDoc
+Date     : 12/23/2023
+Time     : 12:55:43 PM
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (IsPad and not InAnyNet),(IsPad and not InAnyNet)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.2mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=0.4mm) (Preferred=0.4mm) (InNet('VCOM'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.4mm) (Max=0.4mm) (Preferred=0.4mm) (InNet('VDD'))
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=10mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.6mm) (MaxWidth=15mm) (PreferedWidth=0.6mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (Isvia and TouchesRoom('GAP'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.124mm) (Isvia)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint [Tracks Only] (Minimum=60.000) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.07mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.01mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (OnSilkscreen  And (IsText And Not IsDesignator)),(OnSilkscreen  And ((IsText And Not IsDesignator) or IsTrack))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mm) (Max=36.773mm) (InNet('CLK_0') Or InNet('CLK_1'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponentClass('NetTie')),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponentClass('Holes, Screws etc.')),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.152mm, Vertical Gap = 0.152mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('TP27')),(InComponent('U2')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('TP25')),(InComponent('TP26')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('U2')),(InComponent('TP23') or InComponent('JP21') or InComponent('JP27') or InComponent('JP24') or InComponent('JP25') or InComponent('JP26')) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01

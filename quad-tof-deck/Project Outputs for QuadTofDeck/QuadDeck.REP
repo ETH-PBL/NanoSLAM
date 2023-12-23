@@ -1,0 +1,536 @@
+*************************************************************
+FileName = QuadDeck.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dielectric 3
+      File : QuadDeck.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : QuadDeck.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : QuadDeck.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : QuadDeck.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : QuadDeck.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : QuadDeck.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : QuadDeck.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : QuadDeck.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : QuadDeck.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : QuadDeck.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D64
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : QuadDeck.GM14
+
+    Adding Layer      : Mechanical 14
+
+
+Used DCodes :
+    D64
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : QuadDeck.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : QuadDeck.GM12
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D64
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 11
+      File : QuadDeck.GM11
+
+    Adding Layer      : Mechanical 11
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : QuadDeck.GM10
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : QuadDeck.GM9
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : QuadDeck.GM8
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : QuadDeck.GM7
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : QuadDeck.GM6
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : QuadDeck.GM5
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : QuadDeck.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : QuadDeck.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : QuadDeck.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : QuadDeck.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : QuadDeck.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : QuadDeck.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : QuadDeck.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : QuadDeck.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D41
+    D42
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : QuadDeck.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D26
+    D28
+    D29
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : QuadDeck.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : QuadDeck.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : QuadDeck.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D43
+    D44
+    D45
+    D46
+    D47
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : QuadDeck.GP2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : VDD
+      File : QuadDeck.GP1
+
+    Adding Layer      : VDD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : QuadDeck.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : QuadDeck.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : QuadDeck.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : QuadDeck.GM
+
+
+Used DCodes :
+    D69
+*************************************************************
+

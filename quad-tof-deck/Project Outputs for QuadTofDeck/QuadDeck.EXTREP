@@ -1,0 +1,47 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: QuadDeck.GBR   12/23/2023  1:01:06 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GP1                VDD                                     
+.GP2                GND                                     
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Mechanical 2                            
+.GM3                Mechanical 3                            
+.GM4                Mechanical 4                            
+.GM5                Top 3D Body                             
+.GM6                Top Courtyard                           
+.GM7                Top Assembly                            
+.GM8                Top Component Center                    
+.GM9                Top Designator                          
+.GM10               Bottom Designator                       
+.GM11               Mechanical 11                           
+.GM12               Mechanical 12                           
+.GM13               Mechanical 13                           
+.GM14               Mechanical 14                           
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GM20               Bottom Assembly                         
+.GM21               Bottom Courtyard                        
+.GM23               Bottom 3D Body                          
+.GM24               Bottom Component Center                 
+.GKO                Keep-Out Layer                          
+.3                  Dielectric 3                            
+.2                  Dielectric 2                            
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
