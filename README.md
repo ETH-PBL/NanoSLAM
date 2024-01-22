@@ -57,7 +57,7 @@ This work was developed using the following hardware setup:
 
 ## Building and Flashing the Software
 1. Clone this repository:`git clone git@github.com:ETH-PBL/NanoSLAM.git`
-
+2. Build and flash the STM32 MCU following the instructions from [here](https://github.com/ETH-PBL/NanoSLAM/tree/main/stm32-app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
