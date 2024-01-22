@@ -7,8 +7,8 @@ When cloning the firmware, place it in the *NanoSLAM/* folder, at the same level
 Note: we used the commit 5c0001692cd2b77913325765cc6a9fdc2a5f1fac
 Since we can not ensure compatibility between our software and the future firmware releases, you can optionally use the same commit:
 ```bash
-$ cd crazyflie-firmware
-$ git checkout 5c0001692cd2b77913325765cc6a9fdc2a5f1fac
+cd crazyflie-firmware
+git checkout 5c0001692cd2b77913325765cc6a9fdc2a5f1fac
 ```
 
 3. Copy the files *estimator_kalman.patch* and *estimator_kalman2.patch* from this repository into the *crazyflie-firmware/* folder. Apply the patches:
