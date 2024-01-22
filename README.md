@@ -61,7 +61,7 @@ This work was developed using the following hardware setup:
 3. Build and flash the GAP9 SoC following the instructions from [here](https://github.com/ETH-PBL/NanoSLAM/tree/main/gap9-app)
 
 Running the code on GAP9 is required every time the drone boots. After the steps above are performed, the mission can started by:
-1. Connect to the drone using the Crazyflie Client (can be installed from [here](https://github.com/bitcraze/crazyflie-clients-python)
+1. Connect to the drone using the Crazyflie Client (can be installed from [here](https://github.com/bitcraze/crazyflie-clients-python))
 2. Go to the *Parameters* tab
 3. Set the parameter *cmds.ready* to 1
 
