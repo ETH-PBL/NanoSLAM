@@ -55,6 +55,10 @@ This work was developed using the following hardware setup:
   <img src="imgs/drone.png" alt="Your Image Description" width="50%"/>
 </p>
 
+## Building and Flashing the Software
+1. Clone this repository:`git clone git@github.com:ETH-PBL/NanoSLAM.git`
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
