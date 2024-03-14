@@ -19,7 +19,7 @@ Perceiving and mapping the surroundings are essential for autonomous navigation 
 Our video briefly explains how our system works and showcases **NanoSLAM** operating onboard a 44 g nano-drone. [**Video available here**](https://www.youtube.com/watch?v=XUSVLHJ87J0).
 
 ## Publications
-If you use **NanoSLAM** in an academic or industrial context, please cite the following publications:
+If you use **NanoSLAM** in an academic or industrial context, please cite the following publication:
 
 Publications: 
 * *NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots* [IEEE IoT Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10343110)
@@ -35,14 +35,6 @@ Publications:
 }
 ```
 
-```bibtex
-@article{friess2023fully,
-  title={Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones},
-  author={Friess, Carl and Niculescu, Vlad and Polonelli, Tommaso and Magno, Michele and Benini, Luca},
-  journal={arXiv preprint arXiv:2309.03678},
-  year={2023}
-}
-```
 ## Getting Started
 
 This work was developed using the following hardware setup:
