@@ -37,7 +37,7 @@ If you use **NanoSLAM** in an academic or industrial context, please cite the fo
 This work was developed using the following hardware setup:
 - The commercial nano-drone platform [Crazyflie 2.1](https://www.bitcraze.io/products/crazyflie-2-1/)
 - The GAP9 parallel processor developed by Greenwaves Technologies and interfaced with our drone using the PCB introduced in [this work](https://ieeexplore.ieee.org/abstract/document/10137327)
-- Our custom deck provided in this repo (*quad-tof-deck/*) which features four [VL53L5CX](https://www.st.com/resource/en/datasheet/vl53l5cx.pdf) sensors
+- Our custom deck provided in this repo (*quad-tof-deck/*) which features four [VL53L5CX](https://www.st.com/resource/en/datasheet/vl53l5cx.pdf) sensors. The tiny sensor boards that get attached to the deck are the same as in [this project](https://github.com/ETH-PBL/Matrix_ToF_Drones).
 - The commercial [Flow-Deck v2](https://www.bitcraze.io/products/flow-deck-v2/)
 
 <p align="center">
